@@ -1,0 +1,6 @@
+build/
+dist/
+
+epidemiologic_funtions/__pycache__/
+
+epidemiologic_funtions.egg-info/
